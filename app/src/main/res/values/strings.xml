@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">두이는 사촌송을 잘한다.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">정답!</string>
+    <string name="incorrect_toast">오답!</string>
+</resources>
